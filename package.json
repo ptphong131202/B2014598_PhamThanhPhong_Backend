@@ -1,0 +1,15 @@
+{
+  "name": "b2014598_phamthanhphong_backend",
+  "version": "1.0.0",
+  "description": "ContactBook Backend by B2014598 Pham Thanh Phong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B2014598 Pham Thanh Phong",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
